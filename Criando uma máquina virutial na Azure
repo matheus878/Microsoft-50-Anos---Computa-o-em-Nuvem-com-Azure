@@ -1,1 +1,40 @@
 
+A plataforma é bem intuitiva, na parte de (Serviços da azure) você pode simplesmente clicar em (Criar um recurso) ou digitar o nome ou rolar com o botão do mouse para baixo e escolher um recurso.
+
+Quando selecionado o recurso máquina virtiul é só preencher com as informações solicitadas. ex; nome da assinatura, grupo de recursos e etc.
+
+Usando as informações acima foi cria uma máquina Windows apenas a nível de teste para resolução deste desafio.
+
+
+Segue configuração da máquina
+
+Status
+Em execução
+Nome do computador
+srcordeiro
+Endereço IP público/rótulo de nome DNS
+4.228.226.225/<none>
+Endereço IP privado
+10.0.0.5
+Sistema operacional
+Windows
+Geração de VM
+V2
+Status do agente
+Ready
+Versão do agente
+2.7.41491.1095
+Hibernação
+Desabilitado
+Disco efêmero do SO
+N/D
+Política de remoção do Azure Spot
+N/D
+Tipo de remoção do Azure Spot
+N/D
+Grupo de hosts
+Nenhum
+Host
+-
+Grupo de posicionamento por proximidade
+-
